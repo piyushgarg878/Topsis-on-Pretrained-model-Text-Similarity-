@@ -101,7 +101,4 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ---
 
-## 📞 Contact
-For queries, open an **issue** or reach out via [your-email@example.com](mailto:your-email@example.com).  
-Happy Coding! 🚀
 
