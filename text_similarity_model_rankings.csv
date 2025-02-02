@@ -1,0 +1,6 @@
+Model,Rank
+GPT-2,1
+RoBERTa,2
+DistilBERT,3
+BERT,4
+SBERT,5
